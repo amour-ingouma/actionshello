@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Testing for Buttons component"
-if test -f "§FILE"
+if test -f "$FILE"
 then
     echo "FOUND $FILE"
 else
